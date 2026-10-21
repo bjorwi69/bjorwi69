@@ -210,7 +210,7 @@ Terima kasih sudah mampir. Cara tercepat menghubungi saya:
     <td width="50%" valign="top">
 
 ### 🧠 Brain Tumor Prediction
-`QUEST AKTIF` &nbsp; 🧙 Data Mage
+`QUEST AKTIF` &nbsp; 🧙 Data
 
 Klasifikasi biner untuk memprediksi keberadaan tumor otak dari data klinis.
 
