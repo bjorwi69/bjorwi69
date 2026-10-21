@@ -44,11 +44,8 @@ player:     Ropz
 class:      Dual-class (Data Mage x Network Knight)
 guild:      Mahasiswa Teknik Informatika
 base:       Palembang, Indonesia
-main_quest: Jadi Data Analyst
-side_quest: Jadi Network Engineer
-routine:    1 proyek ML / minggu + commit harian
-motto:      "Cek kualitas data dulu, baru rayakan akurasinya."
-status:     online, belajar, dan membangun di depan umum
+Focus:      Data | Nachine Learning | Networking
+status:     online, belajar
 ```
 
 Saya sedang membangun dua jalur sekaligus: **analisis data dan machine learning**, serta **network engineering**. Keduanya saling melengkapi: data yang baik butuh jaringan yang andal, dan jaringan yang baik butuh data untuk dipantau dan dipahami.
@@ -66,7 +63,7 @@ Saya sedang membangun dua jalur sekaligus: **analisis data dan machine learning*
 > Klik salah satu kelas untuk membuka isinya.
 
 <details>
-<summary><b>🧙 DATA MAGE</b> &nbsp;·&nbsp; Data Analyst · Data Mining · Machine Learning</summary>
+<summary><b>🧙 DATA </b> &nbsp;·&nbsp; Data Analyst · Data Mining · Machine Learning</summary>
 
 <br/>
 
@@ -89,11 +86,11 @@ Saya sedang membangun dua jalur sekaligus: **analisis data dan machine learning*
 </details>
 
 <details>
-<summary><b>🛡️ NETWORK KNIGHT</b> &nbsp;·&nbsp; Network Engineering · Security · Cloud Networking</summary>
+<summary><b>🛡️ NETWORK KNIGHT</b> &nbsp;·&nbsp; Network Engineering </summary>
 
 <br/>
 
-**Misi:** membangun, mengamankan, dan memahami jaringan dari bawah.
+**Misi:** 
 
 | Skill | Status | Catatan |
 |---|:-:|---|
@@ -106,7 +103,7 @@ Saya sedang membangun dua jalur sekaligus: **analisis data dan machine learning*
 | AWS VPC | 🗺️ Rencana | Lab hybrid: MikroTik ke AWS VPC |
 | Dokumentasi jaringan | 🔨 Belajar | Topologi dan catatan konfigurasi di GitHub |
 
-**Quest berikutnya:** dokumentasi lab jaringan pertama beserta diagram topologinya.
+**Quest berikutnya:** 
 
 </details>
 
@@ -227,7 +224,7 @@ Klasifikasi biner untuk memprediksi keberadaan tumor otak dari data klinis.
     <td width="50%" valign="top">
 
 ### 🛰️ Network Lab #1
-`SEGERA` &nbsp; 🛡️ Network Knight
+`SEGERA` &nbsp; 🛡️ Network
 
 Dokumentasi lab jaringan pertama: topologi, konfigurasi, dan pengujian konektivitas.
 
