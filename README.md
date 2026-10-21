@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://github.com/bjorwi69">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3200&pause=1000&color=7EE787&center=true&vCenter=true&width=700&height=44&lines=HELLO+WORLD%21+I%27M+ROPZ;DATA+ANALYST+IN+TRAINING;NETWORK+ENGINEER+IN+TRAINING;1+ML+PROJECT+EVERY+WEEK;PRESS+START+TO+EXPLORE" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3200&pause=1000&color=7EE787&center=true&vCenter=true&width=700&height=44&lines=HELLO+WORLD%21+I%27M+ROPZ;DATA+ANALYST+IN+TRAINING;NETWORK+ENGINEER+IN+TRAINING;CONSISTENT+ML+PROJECT;PRESS+START+TO+EXPLORE" alt="Typing animation"/>
 </a>
 
 <br/>
