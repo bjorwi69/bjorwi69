@@ -26,16 +26,11 @@ class Ropz:
     def __init__(self):
         self.role      = "Informatics Engineering Student"
         self.location  = "Palembang, Indonesia 🇮🇩"
-        self.goal      = "Data Analyst"
-        self.learning  = ["Machine Learning", "Data Mining", "Data Storytelling"]
-        self.routine   = "1 ML project / week + daily commits"
+        self.learning  = ["Networking", "Machine Learning", "Data Mining", "Data Storytelling"]
         self.motto     = "Check the data quality before celebrating the accuracy."
-
-    def current_focus(self):
-        return "Menyelesaikan proyek ML mingguan dari data mentah sampai evaluasi."
 ```
 
-Saya mahasiswa Teknik Informatika yang sedang membangun portofolio **Data Analyst** lewat kebiasaan sederhana: satu proyek machine learning setiap minggu, didokumentasikan dari awal sampai akhir. Saya lebih tertarik pada *kenapa* sebuah hasil bisa dipercaya daripada sekadar angka akurasinya.
+Saya mahasiswa Teknik Informatika yang sedang membangun portofolio **Networking** dan **Data Analyst** dengan harapan secara konsisten membuat project dan menampilkan portofolio yang menarikr.
 
 ---
 
@@ -43,7 +38,7 @@ Saya mahasiswa Teknik Informatika yang sedang membangun portofolio **Data Analys
 
 | | |
 |:--|:--|
-| 🔭 **Proyek aktif** | [Machine-Learning-Project](https://github.com/bjorwi69/Machine-Learning-Project): kumpulan proyek ML mingguan |
+| 🔭 **Proyek aktif** | [Machine-Learning-Project](https://github.com/bjorwi69/Machine-Learning-Project): kumpulan proyek Machine Learning |
 | 🌱 **Sedang dipelajari** | Klasifikasi, EDA yang rapi, evaluasi model, dan mendeteksi masalah kualitas data |
 | 🎯 **Target** | Menjadi Data Analyst dengan portofolio yang bisa diverifikasi |
 | 💬 **Tanya saya tentang** | Python, pandas, scikit-learn, Google Colab, workflow Git/GitHub |
@@ -59,7 +54,7 @@ Saya mahasiswa Teknik Informatika yang sedang membangun portofolio **Data Analys
 ### 🧠 Brain Tumor Prediction
 Klasifikasi biner untuk memprediksi keberadaan tumor otak dari data klinis.
 
-**Temuan menarik:** setelah preprocessing, sebaran atribut dataset terlihat sangat linear dan teratur. Ini mengindikasikan data sintetis, jadi proyek ini juga membahas *data quality assessment*, bukan hanya akurasi model.
+**Temuan menarik:** 
 
 `Python` `pandas` `scikit-learn` `Colab`
 
@@ -69,7 +64,7 @@ Klasifikasi biner untuk memprediksi keberadaan tumor otak dari data klinis.
     <td width="50%" valign="top">
 
 ### 🗺️ Proyek Berikutnya
-Rencana proyek mingguan berikutnya sudah dipetakan di roadmap di bawah.
+
 
 **Pola kerja:** setiap proyek mengikuti alur yang sama dari pemahaman data sampai evaluasi, dengan README, log harian, dan notebook yang bisa dibuka langsung di Colab.
 
