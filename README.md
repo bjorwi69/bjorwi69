@@ -86,7 +86,7 @@ Saya sedang membangun dua jalur sekaligus: **analisis data dan machine learning*
 </details>
 
 <details>
-<summary><b>🛡️ NETWORK KNIGHT</b> &nbsp;·&nbsp; Network Engineering </summary>
+<summary><b>🛡️ NETWORK </b> &nbsp;·&nbsp; Network Engineering </summary>
 
 <br/>
 
@@ -108,7 +108,7 @@ Saya sedang membangun dua jalur sekaligus: **analisis data dan machine learning*
 </details>
 
 <details>
-<summary><b>🐉 DUAL-CLASS BONUS</b> &nbsp;·&nbsp; kenapa dua jalur?</summary>
+<summary><b>🐉 DUAL-CLASS </b> &nbsp;·&nbsp; kenapa dua jalur?</summary>
 
 <br/>
 
