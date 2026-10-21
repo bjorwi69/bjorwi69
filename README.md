@@ -41,7 +41,7 @@
 
 ```yaml
 player:     Ropz
-class:      Dual-class (Data Mage x Network Knight)
+class:      Dual-class (Data x Network)
 guild:      Mahasiswa Teknik Informatika
 base:       Palembang, Indonesia
 Focus:      Data | Nachine Learning | Networking
