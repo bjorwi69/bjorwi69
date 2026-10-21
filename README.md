@@ -140,7 +140,7 @@ flowchart LR
 
 ## 🗓️ Roadmap 2026
 
-- [x] Membangun struktur repo proyek ML mingguan
+- [x] Membangun struktur repo proyek Machine Learning
 - [x] Proyek 1: Brain Tumor Prediction (data understanding dan preprocessing)
 - [ ] Menyelesaikan modeling dan evaluasi proyek 1
 - [ ] Proyek: Regresi
